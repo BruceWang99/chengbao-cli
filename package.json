@@ -20,5 +20,11 @@
     "commander": "^8.3.0",
     "inquirer": "^8.2.0",
     "ora": "^5.0.0"
+  },
+  "devDependencies": {
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "metalsmith": "^2.3.0",
+    "ncp": "^2.0.0"
   }
 }
