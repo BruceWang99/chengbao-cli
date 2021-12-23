@@ -16,7 +16,7 @@ const addLoading = function (fn) {
 	}
 }
 const fetchInfo = async function (repoName, tmpName) {
-	const token = "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"
+	const token = "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"
 	// 接口
 	const url1 = `https://api.github.com/users/${repoName}/repos`
 	const url2 = `https://api.github.com/repos/${repoName}/${tmpName}/tags`
